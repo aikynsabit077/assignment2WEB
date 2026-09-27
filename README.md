@@ -42,5 +42,4 @@ During this assignment, I practiced using Flexbox and CSS Grid to create respons
 
 https://github.com/aikynsabit077/assignment2WEB.git
 ## Link to Website
-
-https://aikynsabit077.github.io/assignment2WEB/#contact
+https://aikynsabit077.github.io/assignment2WEB/
